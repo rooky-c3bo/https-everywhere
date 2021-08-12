@@ -71,6 +71,7 @@
 	<target host="www1.informatik.uni-erlangen.de" />
 	<target host="zuv.cms.rrze.uni-erlangen.de" />
 	<target host="www.uni-erlangen.de" />
+	<target host="ifb.uni-erlangen.de" />
 
 	<!--	Complications:
 				-->
